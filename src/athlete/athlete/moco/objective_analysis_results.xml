@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<ObjectiveTermAnalysis>
+  <Metadata>
+    <AnalysisDate>2025-11-19T09:28:10.656284</AnalysisDate>
+    <Directory>/home/lisca/biomec/data/20250306_dataset/results_pool/averages/end_results/</Directory>
+    <SolutionSuffix>_20res_02mesh.sto</SolutionSuffix>
+    <NumSolutions>15</NumSolutions>
+  </Metadata>
+  <AveragePercentages>
+    <Contact unit="percent">5.0764</Contact>
+    <ControlEffort unit="percent">10.7714</ControlEffort>
+    <FeetGoals unit="percent">15.0204</FeetGoals>
+    <StateTracking unit="percent">65.1237</StateTracking>
+    <TorsoGoals unit="percent">3.8111</TorsoGoals>
+    <Total unit="percent">99.8030</Total>
+  </AveragePercentages>
+  <ProcessedSolutions>
+    <Solution>sub03_strirt_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strirc_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strift_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strift_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strirc_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strirt_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strifc_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strirc_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strifc_cond00000_speed02000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strifc_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strirc_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strift_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strift_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub03_strirt_cond00000_speed03000_20res_02mesh.sto</Solution>
+    <Solution>sub04_strirt_cond00000_speed03000_20res_02mesh.sto</Solution>
+  </ProcessedSolutions>
+</ObjectiveTermAnalysis>

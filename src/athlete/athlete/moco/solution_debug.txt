@@ -1,0 +1,18 @@
+Needed for visa ext:
+
+- certificate of enrolment
+? Required duration, overhead costs? - may potentially need snapshot of program curriculum/schedule...
+- bank account statement
+- Health insurance
+- 
+
+Fusion 360: 
+'U*gG-c}]awU6,2
+
+Are my muscles strong enough?
+
+I'm able to converge on a kinematically accurate solution with my current problem setup provided that the reserves are strong enough (>50), but anything else I try to run that have less reserve strength than this just results in larger kinematic errors with excess flexion in the knees, hips, and ankles. The external loads that I'm applying to the model are extremely high compared to the GRF data one would see in walking gait, as the type of gait (jogging) I'm working with sees loads upwards of 1500N.
+
+- make an inverse emg solution that introduces a guess with an increased load on other surrounding actuators
+- change the frictional coefficients of contact spheres
+- 

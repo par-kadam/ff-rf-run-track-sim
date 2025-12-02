@@ -1,0 +1,14 @@
+DataType=double
+version=3
+OpenSimVersion=4.5.1
+endheader
+time	ground_force_r_vx	ground_force_r_vy	ground_force_r_vz	ground_force_r_px	ground_force_r_py	ground_force_r_pz	ground_force_l_vx	ground_force_l_vy	ground_force_l_vz	ground_force_l_px	ground_force_l_py	ground_force_l_pz	ground_torque_r_x	ground_torque_r_y	ground_torque_r_z	ground_torque_l_x	ground_torque_l_y	ground_torque_l_z
+0	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.09602083375000001	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.1920416675	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.28806250125	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.384083335	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.4801041687500001	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.5761250025	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.67214583625	0	0	0	-nan	0	-nan	0	0	0	-nan	0	-nan	0	0	0	0	0	0
+0.7681666700000001	-0.0001678926169242764	3.3553890478476e-05	0.0001999878173507829	1.554471166186767	0	-0.0301191221575382	0.2016679892869593	0.1395998737719975	0.4125081154056928	2.217251696286171	0	-0.06677338798820147	-2.453880654637246e-05	4.582101184708967e-07	-2.06775554340243e-05	-0.01928661872568396	-0.007136931114806601	0.01184415067076749

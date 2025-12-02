@@ -1,0 +1,245 @@
+Muscle Names and full paths
+==================================================
+
+Total number of muscles: 80
+
+  1: addbrev_r
+  Path: /forceset/addbrev_r
+
+  2: addlong_r
+  Path: /forceset/addlong_r
+
+  3: addmagDist_r
+  Path: /forceset/addmagDist_r
+
+  4: addmagIsch_r
+  Path: /forceset/addmagIsch_r
+
+  5: addmagMid_r
+  Path: /forceset/addmagMid_r
+
+  6: addmagProx_r
+  Path: /forceset/addmagProx_r
+
+  7: bflh_r
+  Path: /forceset/bflh_r
+
+  8: bfsh_r
+  Path: /forceset/bfsh_r
+
+  9: edl_r
+  Path: /forceset/edl_r
+
+ 10: ehl_r
+  Path: /forceset/ehl_r
+
+ 11: fdl_r
+  Path: /forceset/fdl_r
+
+ 12: fhl_r
+  Path: /forceset/fhl_r
+
+ 13: gaslat_r
+  Path: /forceset/gaslat_r
+
+ 14: gasmed_r
+  Path: /forceset/gasmed_r
+
+ 15: glmax1_r
+  Path: /forceset/glmax1_r
+
+ 16: glmax2_r
+  Path: /forceset/glmax2_r
+
+ 17: glmax3_r
+  Path: /forceset/glmax3_r
+
+ 18: glmed1_r
+  Path: /forceset/glmed1_r
+
+ 19: glmed2_r
+  Path: /forceset/glmed2_r
+
+ 20: glmed3_r
+  Path: /forceset/glmed3_r
+
+ 21: glmin1_r
+  Path: /forceset/glmin1_r
+
+ 22: glmin2_r
+  Path: /forceset/glmin2_r
+
+ 23: glmin3_r
+  Path: /forceset/glmin3_r
+
+ 24: grac_r
+  Path: /forceset/grac_r
+
+ 25: iliacus_r
+  Path: /forceset/iliacus_r
+
+ 26: perbrev_r
+  Path: /forceset/perbrev_r
+
+ 27: perlong_r
+  Path: /forceset/perlong_r
+
+ 28: piri_r
+  Path: /forceset/piri_r
+
+ 29: psoas_r
+  Path: /forceset/psoas_r
+
+ 30: recfem_r
+  Path: /forceset/recfem_r
+
+ 31: sart_r
+  Path: /forceset/sart_r
+
+ 32: semimem_r
+  Path: /forceset/semimem_r
+
+ 33: semiten_r
+  Path: /forceset/semiten_r
+
+ 34: soleus_r
+  Path: /forceset/soleus_r
+
+ 35: tfl_r
+  Path: /forceset/tfl_r
+
+ 36: tibant_r
+  Path: /forceset/tibant_r
+
+ 37: tibpost_r
+  Path: /forceset/tibpost_r
+
+ 38: vasint_r
+  Path: /forceset/vasint_r
+
+ 39: vaslat_r
+  Path: /forceset/vaslat_r
+
+ 40: vasmed_r
+  Path: /forceset/vasmed_r
+
+ 41: addbrev_l
+  Path: /forceset/addbrev_l
+
+ 42: addlong_l
+  Path: /forceset/addlong_l
+
+ 43: addmagDist_l
+  Path: /forceset/addmagDist_l
+
+ 44: addmagIsch_l
+  Path: /forceset/addmagIsch_l
+
+ 45: addmagMid_l
+  Path: /forceset/addmagMid_l
+
+ 46: addmagProx_l
+  Path: /forceset/addmagProx_l
+
+ 47: bflh_l
+  Path: /forceset/bflh_l
+
+ 48: bfsh_l
+  Path: /forceset/bfsh_l
+
+ 49: edl_l
+  Path: /forceset/edl_l
+
+ 50: ehl_l
+  Path: /forceset/ehl_l
+
+ 51: fdl_l
+  Path: /forceset/fdl_l
+
+ 52: fhl_l
+  Path: /forceset/fhl_l
+
+ 53: gaslat_l
+  Path: /forceset/gaslat_l
+
+ 54: gasmed_l
+  Path: /forceset/gasmed_l
+
+ 55: glmax1_l
+  Path: /forceset/glmax1_l
+
+ 56: glmax2_l
+  Path: /forceset/glmax2_l
+
+ 57: glmax3_l
+  Path: /forceset/glmax3_l
+
+ 58: glmed1_l
+  Path: /forceset/glmed1_l
+
+ 59: glmed2_l
+  Path: /forceset/glmed2_l
+
+ 60: glmed3_l
+  Path: /forceset/glmed3_l
+
+ 61: glmin1_l
+  Path: /forceset/glmin1_l
+
+ 62: glmin2_l
+  Path: /forceset/glmin2_l
+
+ 63: glmin3_l
+  Path: /forceset/glmin3_l
+
+ 64: grac_l
+  Path: /forceset/grac_l
+
+ 65: iliacus_l
+  Path: /forceset/iliacus_l
+
+ 66: perbrev_l
+  Path: /forceset/perbrev_l
+
+ 67: perlong_l
+  Path: /forceset/perlong_l
+
+ 68: piri_l
+  Path: /forceset/piri_l
+
+ 69: psoas_l
+  Path: /forceset/psoas_l
+
+ 70: recfem_l
+  Path: /forceset/recfem_l
+
+ 71: sart_l
+  Path: /forceset/sart_l
+
+ 72: semimem_l
+  Path: /forceset/semimem_l
+
+ 73: semiten_l
+  Path: /forceset/semiten_l
+
+ 74: soleus_l
+  Path: /forceset/soleus_l
+
+ 75: tfl_l
+  Path: /forceset/tfl_l
+
+ 76: tibant_l
+  Path: /forceset/tibant_l
+
+ 77: tibpost_l
+  Path: /forceset/tibpost_l
+
+ 78: vasint_l
+  Path: /forceset/vasint_l
+
+ 79: vaslat_l
+  Path: /forceset/vaslat_l
+
+ 80: vasmed_l
+  Path: /forceset/vasmed_l
+

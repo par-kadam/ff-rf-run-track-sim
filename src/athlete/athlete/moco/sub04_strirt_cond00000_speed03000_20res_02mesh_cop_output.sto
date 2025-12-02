@@ -1,0 +1,14 @@
+DataType=double
+version=3
+OpenSimVersion=4.5.1
+endheader
+time	2_ground_force_px	2_ground_force_py	2_ground_force_pz	1_ground_force_px	1_ground_force_py	1_ground_force_pz
+0	0	0	0	0	0	0
+0.09602083375000001	0	0	0	0	0	0
+0.1920416675	0	0	0	0	0	0
+0.28806250125	0	0	0	0	0	0
+0.384083335	0	0	0	0	0	0
+0.4801041687500001	0	0	0	0	0	0
+0.5761250025	0	0	0	0	0	0
+0.67214583625	0	0	0	0	0	0
+0.7681666700000001	0	0	0	2.229858568506582	0	-0.0409862511666011

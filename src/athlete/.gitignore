@@ -1,0 +1,11 @@
+# emacs backup files
+*~
+
+# This symbolic link is specific to the machine where this repository is installed.
+data/local/data
+
+# This file is appended with paths specific to the machine where this repository is installed.
+athlete/bin/activate.sh
+
+#
+athlete.egg-info
