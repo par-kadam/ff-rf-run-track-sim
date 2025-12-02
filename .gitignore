@@ -1,0 +1,12 @@
+*.zip
+*.x2d
+*.x1d
+*.xcp
+*.system
+*.log
+*.sh
+*./src/opensim-gui
+*./src/opensim-core
+./data/
+./src/OrbbecSDK_v2/
+./src/matlab/
