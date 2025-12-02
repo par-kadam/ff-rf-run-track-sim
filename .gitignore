@@ -7,16 +7,15 @@
 *.sh
 *./src/opensim-gui
 *./src/opensim-core
-./data/
+./data/*
 
-./src/
-OrbbecSDK_v2/
-matlab/
-anaconda/
-env/
-venv/
+./src/OrbbecSDK_v2/
+./src/matlab/
+./src/anaconda/
+./src/env/
+./src/venv/
 *.pyc
-__pycache__/
-.vscode/
-.DS_Store
+./src/__pycache__/
+./src/.vscode/
+./src/.DS_Store
 
