@@ -8,5 +8,15 @@
 *./src/opensim-gui
 *./src/opensim-core
 ./data/
-./src/OrbbecSDK_v2/
-./src/matlab/
+
+./src/
+OrbbecSDK_v2/
+matlab/
+anaconda/
+env/
+venv/
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
+
