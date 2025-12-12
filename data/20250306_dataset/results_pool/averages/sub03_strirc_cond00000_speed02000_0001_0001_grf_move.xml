@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSimDocument Version="30000">
+   <ExternalLoads name="sub03sub03_strirc_cond00000_speed02000_0001_0001_trc">
+      <objects>
+         <ExternalForce name="ExternalForce_1">
+            <isDisabled>false</isDisabled>
+            <applied_to_body>toes_l</applied_to_body>
+            <force_expressed_in_body>ground</force_expressed_in_body>
+            <point_expressed_in_body>ground</point_expressed_in_body>
+            <force_identifier>ground_1_force_v</force_identifier>
+            <point_identifier>ground_1_force_p</point_identifier>
+            <torque_identifier>ground_1_torque_</torque_identifier>
+            <data_source_name>Unassigned</data_source_name>
+         </ExternalForce>
+         <ExternalForce name="ExternalForce_2">
+            <isDisabled>false</isDisabled>
+            <applied_to_body>toes_r</applied_to_body>
+            <force_expressed_in_body>ground</force_expressed_in_body>
+            <point_expressed_in_body>ground</point_expressed_in_body>
+            <force_identifier>ground_2_force_v</force_identifier>
+            <point_identifier>ground_2_force_p</point_identifier>
+            <torque_identifier>ground_2_torque_</torque_identifier>
+            <data_source_name>Unassigned</data_source_name>
+         </ExternalForce>
+      </objects>
+      <datafile>sub03_strirc_cond00000_speed02000_0001_0001_grf_move.sto</datafile>
+      <external_loads_model_kinematics_file>/home/lisca/biomec/data/20250306_dataset/results_pool/sub03_strirc_cond00000_speed02000_0001_0001_ik_move.sto</external_loads_model_kinematics_file>
+      <lowpass_cutoff_frequency_for_load_kinematics>-1</lowpass_cutoff_frequency_for_load_kinematics>
+   </ExternalLoads>
+</OpenSimDocument>

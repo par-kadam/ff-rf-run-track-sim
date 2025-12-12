@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSimDocument Version="20302">
+   <ExternalLoads name="sub04sub04_strift_cond00000_speed02000_0001_0020_trc">
+      <objects>
+         <ExternalForce name="ExternalForce_1">
+            <isDisabled>false</isDisabled>
+            <applied_to_body>calcn_l</applied_to_body>
+            <force_expressed_in_body>ground</force_expressed_in_body>
+            <point_expressed_in_body>ground</point_expressed_in_body>
+            <force_identifier>ground_1_force_v</force_identifier>
+            <point_identifier>ground_1_force_p</point_identifier>
+            <torque_identifier>ground_1_torque_</torque_identifier>
+            <data_source_name>Unassigned</data_source_name>
+         </ExternalForce>
+         <ExternalForce name="ExternalForce_2">
+            <isDisabled>false</isDisabled>
+            <applied_to_body>calcn_r</applied_to_body>
+            <force_expressed_in_body>ground</force_expressed_in_body>
+            <point_expressed_in_body>ground</point_expressed_in_body>
+            <force_identifier>ground_2_force_v</force_identifier>
+            <point_identifier>ground_2_force_p</point_identifier>
+            <torque_identifier>ground_2_torque_</torque_identifier>
+            <data_source_name>Unassigned</data_source_name>
+         </ExternalForce>
+      </objects>
+      <datafile>sub04_strift_cond00000_speed02000_grf_move_averages.sto</datafile>
+      <external_loads_model_kinematics_file>sub04_strift_cond00000_speed02000_ik_move_averages.sto</external_loads_model_kinematics_file>
+      <lowpass_cutoff_frequency_for_load_kinematics>-1</lowpass_cutoff_frequency_for_load_kinematics>
+   </ExternalLoads>
+</OpenSimDocument>
