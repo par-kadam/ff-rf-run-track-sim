@@ -1,0 +1,92 @@
+Visualize the layout of the following models:
+- subject_walk_armless.osim (Moco, example3DWalking)
+- lower_limb.osim (Matlab Tools)
+
+We need to guide ourselves after the subject_walk_armless.osim because
+it works already with Moco.
+
+Todo:
+- Option 1: use the marker layout of subject_walk_armless.osim when collecting new data.
+- Option 2: adapt the layout of subject_walk_armless.osim to the positions where you placed the markers in reality.
+
+Visualize the compromises which you did when converting the layout of subject_walk_armless.osim markers into the layout of lower_limb.osim markers.
+
+Adamantium dataset
+- marker placement / layout on subject Robin
+  - 0009.mkv video at time 05:00
+
+vicon2opensim.osim
+
+- Use OpenSim GUI to adjust the marker layout of the model to match
+  the marker layout from the subject wearing them.
+
+---------------
+OpenSim scalling tool
+---------------
+LASI - RASI
+
+LPSI - LKNE
+RPSI - RKNE
+
+LKNE - LANK
+RKNE - RANK
+
+LHEE - LTOE
+RHEE - RTOE
+---------------
+
+---------------
+Marker conversion:
+subject_walk_armless.osim (Moco, example3DWalking) -> lower_limb.osim (Matlab Tools)
+---------------
+L.Toe   -> LTOE
+R.Toe   -> RTOE
+---------------
+L.Ankle -> LANK
+R.Ankle -> RANK
+---------------
+L.Heel  -> LHEE
+R.Heel  -> RHEE
+---------------
+L.SH1   -> LTIB (not used in scaling, used in IK)
+R.SH1   -> RTIB (not used in scaling, used in IK)
+L.SH2   -> NONE
+R.SH2   -> NONE
+L.SH3   -> NONE
+R.SH3   -> NONE
+None    -> NONE
+R.SH4   -> NONE
+---------------
+L.Knee  -> LKNE
+R.Knee  -> RKNE
+---------------
+L.TH1   -> LTHI (not used in scaling, used in IK)
+R.TH1   -> RTHI (not used in scaling, used in IK)
+L.TH2   -> NONE
+R.TH2   -> NONE
+L.TH3   -> NONE
+R.TH3   -> NONE
+L.TH4   -> NONE
+None    -> NONE
+---------------
+L.ASIS  -> LASI
+R.ASIS  -> RASI
+---------------
+L.PSIS  -> LPSI
+R.PSIS  -> RPSI
+---------------
+L.MT5   -> NONE
+R.MT5   -> NONE
+---------------
+S2      -> NONE
+---------------
+
+- OpenSim scale tool
+  - scale tasks
+    - subtalar_angle_r, subtalar_angle_r, mtp_angle_l, mtp_angle_r
+      - are missing from subject_walk_armless.osim
+    - scaling works without them
+      - 
+    
+
+Adjust the position of the LTHI, RTHI, LTIB, RTIB model's markers the same they are placed on Robin's legs.
