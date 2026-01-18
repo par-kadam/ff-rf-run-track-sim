@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<OpenSimDocument Version="20302">
-   <InverseDynamicsTool name="sub04_SCALED_addbio_free_subt_mtp">
-      <results_directory> </results_directory>
-      <model_file>sub04_SCALED_addbio_free_subt_mtp.osim</model_file>
-      <time_range>0.001 0.793</time_range>
-      <forces_to_exclude>Muscles</forces_to_exclude>
-      <external_loads_file>sub04_strifc_cond00000_speed02000_0001_0002_grf.xml</external_loads_file>
-      <coordinates_file>/home/lisca/biomec/data/20250306_dataset/results_pool/sub04_strifc_cond00000_speed02000_0001_0002_ik.sto</coordinates_file>
-      <lowpass_cutoff_frequency_for_coordinates>15</lowpass_cutoff_frequency_for_coordinates>
-      <output_gen_force_file>/home/lisca/biomec/data/20250306_dataset/results_pool/sub04_strifc_cond00000_speed02000_0001_0002_id.sto</output_gen_force_file>
-   </InverseDynamicsTool>
-</OpenSimDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe21c48002c4e5dfa25fe656f39d1639f4dcff5e577c310383b6b931c06459a5
+size 897

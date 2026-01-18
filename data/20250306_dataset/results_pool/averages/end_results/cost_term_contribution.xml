@@ -1,34 +1,3 @@
-<?xml version="1.0" ?>
-<ObjectiveTermAnalysis>
-  <Metadata>
-    <AnalysisDate>2025-11-19T11:51:09.660535</AnalysisDate>
-    <Directory>/home/lisca/biomec/data/20250306_dataset/results_pool/averages/end_results/</Directory>
-    <SolutionSuffix>_20res_02mesh.sto</SolutionSuffix>
-    <NumSolutions>15</NumSolutions>
-  </Metadata>
-  <AveragePercentages>
-    <Contact unit="percent" std="1.4263">5.0764</Contact>
-    <ControlEffort unit="percent" std="3.2492">10.7714</ControlEffort>
-    <FeetGoals unit="percent" std="3.3707">15.0204</FeetGoals>
-    <StateTracking unit="percent" std="3.9200">65.1237</StateTracking>
-    <TorsoGoals unit="percent" std="1.3615">3.8111</TorsoGoals>
-    <Total unit="percent">99.8030</Total>
-  </AveragePercentages>
-  <ProcessedSolutions>
-    <Solution>sub03_strirt_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strirc_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strift_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strift_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strirc_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strirt_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strifc_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strirc_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strifc_cond00000_speed02000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strifc_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strirc_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strift_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strift_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub03_strirt_cond00000_speed03000_20res_02mesh.sto</Solution>
-    <Solution>sub04_strirt_cond00000_speed03000_20res_02mesh.sto</Solution>
-  </ProcessedSolutions>
-</ObjectiveTermAnalysis>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1edb7c6092417ed871f7f7c7a0cf08e10ed30936117b51c8af16bb9bc445520a
+size 1956

@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<OpenSimDocument Version="20302">
-   <RRATool name="sub04_sub04_strifc_cond00000_speed02000_0001_0002_trc_RRA">
-      <model_file>sub04_SCALED_addbio_free_subt_mtp.osim</model_file>
-      <replace_force_set>true</replace_force_set>
-      <force_set_files>/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_RRA_actuators.xml</force_set_files>
-      <results_directory>RRAResults</results_directory>
-      <output_precision>12</output_precision>
-      <initial_time>0.001</initial_time>
-      <final_time>0.793</final_time>
-      <solve_for_equilibrium_for_auxiliary_states>false</solve_for_equilibrium_for_auxiliary_states>
-      <maximum_number_of_integrator_steps>20000</maximum_number_of_integrator_steps>
-      <maximum_integrator_step_size>1</maximum_integrator_step_size>
-      <minimum_integrator_step_size>1e-08</minimum_integrator_step_size>
-      <integrator_error_tolerance>1e-05</integrator_error_tolerance>
-      <integrator_fine_tolerance>1e-05</integrator_fine_tolerance>
-      <external_loads_file>sub04_strifc_cond00000_speed02000_0001_0002_grf.xml</external_loads_file>
-      <desired_kinematics_file>/home/lisca/biomec/data/20250306_dataset/results_pool/sub04_strifc_cond00000_speed02000_0001_0002_ik.sto</desired_kinematics_file>
-      <task_set_file>/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_RRA_Tasks.xml</task_set_file>
-      <lowpass_cutoff_frequency>6</lowpass_cutoff_frequency>
-      <optimizer_algorithm>ipopt</optimizer_algorithm>
-      <optimizer_derivative_dx>0.0001</optimizer_derivative_dx>
-      <optimizer_convergence_criterion>1e-06</optimizer_convergence_criterion>
-      <adjust_com_to_reduce_residuals>true</adjust_com_to_reduce_residuals>
-      <adjusted_com_body>pelvis</adjusted_com_body>
-      <initial_time_for_com_adjustment>-1</initial_time_for_com_adjustment>
-      <final_time_for_com_adjustment>-1</final_time_for_com_adjustment>
-      <output_model_file>sub04_strifc_cond00000_speed02000_0001_0002_rra.osim</output_model_file>
-      <use_verbose_printing>false</use_verbose_printing>
-   </RRATool>
-</OpenSimDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a72cf85c9f6db0587146f04cc195740c4ea0399c6d41f5ff5126b471f7173c0
+size 2162

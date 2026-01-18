@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<OpenSimDocument Version="20302">
-   <InverseKinematicsTool name="sub03_SCALED_addbio_free_subt_mtp">
-      <results_directory>./</results_directory>
-      <input_directory>/home/lisca/biomec/data/20250306_dataset/sub03/ses20250306</input_directory>
-      <model_file>sub03_SCALED_addbio_free_subt_mtp.osim</model_file>
-      <constraint_weight>infinity</constraint_weight>
-      <accuracy>5e-05</accuracy>
-      <IKTaskSet file="/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_IK_Tasks.xml"/>
-      <marker_file>/home/lisca/biomec/data/20250306_dataset/sub03/ses20250306/sub03_strifc_cond00000_speed02000_0001_0003_trc.trc</marker_file>
-      <coordinate_file>Unassigned</coordinate_file>
-      <time_range>0.001 0.761</time_range>
-      <report_errors>true</report_errors>
-      <output_motion_file>/home/lisca/biomec/data/20250306_dataset/results_pool/sub03_strifc_cond00000_speed02000_0001_0003_ik.sto</output_motion_file>
-   </InverseKinematicsTool>
-</OpenSimDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:22e46a1078006881357dd82ef428226934d4b0b3cfcce1228cdf5ca3a2f574e9
+size 1040

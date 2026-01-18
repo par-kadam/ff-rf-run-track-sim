@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<OpenSimDocument Version="20302">
-   <ScaleTool name="sub03">
-      <GenericModelMaker name="">
-         <model_file>/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco.osim</model_file>
-         <marker_set_file>/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_MarkerSetFile.xml</marker_set_file>
-      </GenericModelMaker>
-      <mass>58</mass>
-      <height>178</height>
-      <ModelScaler name="">
-         <apply>true</apply>
-         <scaling_order>measurements</scaling_order>
-         <MeasurementSet file="/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_Scale_MeasurementSet.xml"/>
-         <marker_file>/home/lisca/biomec/data/20250306_dataset/sub03/ses20250306/sub03_strist_cond00000_speed00000_0003_trc.trc</marker_file>
-         <time_range>0.001 0.01</time_range>
-         <preserve_mass_distribution>true</preserve_mass_distribution>
-         <output_scale_file>sub03_ScaleSet_Applied.xml</output_scale_file>
-      </ModelScaler>
-      <MarkerPlacer name="">
-         <IKTaskSet file="/home/lisca/biomec/src/data2opensim/vicon/../vicon/model/vicon2opensim2moco_Scale_Tasks.xml"/>
-         <marker_file>/home/lisca/biomec/data/20250306_dataset/sub03/ses20250306/sub03_strist_cond00000_speed00000_0003_trc.trc</marker_file>
-         <time_range>0.001 0.01</time_range>
-         <output_model_file>sub03_SCALED.osim</output_model_file>
-         <output_motion_file>sub03_static_output.sto</output_motion_file>
-         <max_marker_movement>-1</max_marker_movement>
-      </MarkerPlacer>
-   </ScaleTool>
-</OpenSimDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5451d2626f3f2ddd1adc77ece5362dd1e1e7bf5094af57033bb21cf8a47772f5
+size 1651
